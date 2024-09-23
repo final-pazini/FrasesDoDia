@@ -1,2 +1,1 @@
-Aplicativo simples que mostra uma nova 
-frase aleatória ao clicar no botão (Nova frase)
+Simple app that displays a new random phrase when the button (New phrase) is clicked.
